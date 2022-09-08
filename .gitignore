@@ -1,0 +1,7 @@
+*.pro.user
+build-*
+
+# ignore all ins, outs and pyc
+*.in
+*.out
+*.pyc

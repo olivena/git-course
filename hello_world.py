@@ -1,2 +1,2 @@
-print("Hello world main file!")
+print("Hello world!")
 print("Hello from feature")
